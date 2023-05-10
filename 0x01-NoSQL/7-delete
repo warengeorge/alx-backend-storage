@@ -1,0 +1,2 @@
+// Delete many school based on the name field value
+db.school.deleteMany({name: "Holberton school"})
